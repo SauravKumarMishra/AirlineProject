@@ -1,0 +1,770 @@
+{
+  "flights": [
+    {
+      "id": "IAF1576",
+      "flightName": "Air India",
+      "totalSeats": 20,
+      "aircraftType": "Boeing  787-9 Dreamliner",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1577",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1578",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Singapore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1579",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs"
+    },
+    {
+      "id": "IAF1580",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1581",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1582",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1583",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1584",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1585",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    },
+    {
+      "id": "IAF1586",
+      "totalSeats": 20,
+      "aircraftType": "Boeing 787-9 Dreamliner",
+      "flightName": "Air India",
+      "src": "Shimla",
+      "dest": "Bangalore",
+      "duration": "3:30 hrs",
+      "addons": {
+        "meal": ["Veg", "Non-Veg"],
+        "wifi": true,
+        "inShopEntertainment": ["Electronics", "Handicrafts"]
+      }
+    }
+  ],
+  "passengers": [
+    {
+      "id": 1,
+      "category": "normal",
+      "name": "Saurav Kumar Mishra",
+      "pnr": 101,
+      "email": "saurav@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1576",
+      "checkedInStatus": true,
+      "seatNo": "3A",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": false,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 2,
+      "category": "wheelchair",
+      "name": "Rahul Kumar Mishra",
+      "pnr": 102,
+      "email": "rahul@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1576",
+      "checkedInStatus": true,
+      "seatNo": "8A",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": true,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": null,
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 3,
+      "category": "normal",
+      "name": "Ved Prakash",
+      "pnr": 103,
+      "email": "Ved@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1576",
+      "checkedInStatus": true,
+      "seatNo": "3A",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": true,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 4,
+      "category": "normal",
+      "name": "Indira Kumari Mishra",
+      "pnr": 104,
+      "email": "Indira@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1576",
+      "checkedInStatus": true,
+      "seatNo": "4A",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": true,
+        "InFlightEntertainment": false
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 5,
+      "category": "wheelchair",
+      "name": "Monalisa",
+      "pnr": 105,
+      "email": "Mona@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1577",
+      "checkedInStatus": true,
+      "seatNo": "3E",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": true,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 6,
+      "category": "normal",
+      "name": "Viru Kumar Mishra",
+      "pnr": 106,
+      "email": "Viru@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1577",
+      "checkedInStatus": true,
+      "seatNo": "3F",
+      "ancillaryServices": {
+        "meal": "Veg",
+        "wifi": true,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    },
+    {
+      "id": 7,
+      "category": "wheelchair",
+      "name": "Jitendra Kumar Mishra",
+      "pnr": 107,
+      "email": "saurav@gmail.com",
+      "amount": 4000,
+      "flightId": "IAF1576",
+      "checkedInStatus": true,
+      "seatNo": "4A",
+      "ancillaryServices": {
+        "meal": "Non-Veg",
+        "wifi": true,
+        "InFlightEntertainment": true
+      },
+      "address": "H.No 5, Bengaluru",
+      "Passport": "ABCD123",
+      "DOB": "23/11/1996"
+    }
+  ],
+  "flightSeats": [
+    {
+      "id": 1,
+      "row": "A",
+      "seatnumber": "1A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 2,
+      "row": "A",
+      "seatnumber": "2A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 3,
+      "row": "A",
+      "seatnumber": "3A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 4,
+      "row": "A",
+      "seatnumber": "4A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 5,
+      "row": "A",
+      "seatnumber": "5A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 6,
+      "row": "A",
+      "seatnumber": "6A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 7,
+      "row": "A",
+      "seatnumber": "7A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 8,
+      "row": "A",
+      "seatnumber": "8A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 9,
+      "row": "A",
+      "seatnumber": "9A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 10,
+      "row": "A",
+      "seatnumber": "10A",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 11,
+      "row": "B",
+      "seatnumber": "1B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 12,
+      "row": "B",
+      "seatnumber": "2B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 13,
+      "row": "B",
+      "seatnumber": "3B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 14,
+      "row": "B",
+      "seatnumber": "4B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 15,
+      "row": "B",
+      "seatnumber": "5B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 16,
+      "row": "B",
+      "seatnumber": "6B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 17,
+      "row": "B",
+      "seatnumber": "7B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 18,
+      "row": "B",
+      "seatnumber": "8B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 19,
+      "row": "B",
+      "seatnumber": "9B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 20,
+      "row": "B",
+      "seatnumber": "10B",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 21,
+      "row": "C",
+      "seatnumber": "1C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 22,
+      "row": "C",
+      "seatnumber": "2C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 23,
+      "row": "C",
+      "seatnumber": "3C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 24,
+      "row": "C",
+      "seatnumber": "4C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 25,
+      "row": "C",
+      "seatnumber": "5C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 26,
+      "row": "C",
+      "seatnumber": "6C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 27,
+      "row": "C",
+      "seatnumber": "7C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 28,
+      "row": "C",
+      "seatnumber": "8C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 29,
+      "row": "C",
+      "seatnumber": "9C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 30,
+      "row": "C",
+      "seatnumber": "10C",
+      "flightId": "IAF1576",
+      "occupied": true,
+      "category": "normal"
+    },
+    {
+      "id": 1,
+      "row": "A",
+      "seatnumber": "1A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 2,
+      "row": "A",
+      "seatnumber": "2A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 3,
+      "row": "A",
+      "seatnumber": "3A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 4,
+      "row": "A",
+      "seatnumber": "4A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 5,
+      "row": "A",
+      "seatnumber": "5A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 6,
+      "row": "A",
+      "seatnumber": "6A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 7,
+      "row": "A",
+      "seatnumber": "7A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 8,
+      "row": "A",
+      "seatnumber": "8A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 9,
+      "row": "A",
+      "seatnumber": "9A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 10,
+      "row": "A",
+      "seatnumber": "10A",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 11,
+      "row": "B",
+      "seatnumber": "1B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 12,
+      "row": "B",
+      "seatnumber": "2B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 13,
+      "row": "B",
+      "seatnumber": "3B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 14,
+      "row": "B",
+      "seatnumber": "4B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 15,
+      "row": "B",
+      "seatnumber": "5B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 16,
+      "row": "B",
+      "seatnumber": "6B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 17,
+      "row": "B",
+      "seatnumber": "7B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 18,
+      "row": "B",
+      "seatnumber": "8B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 19,
+      "row": "B",
+      "seatnumber": "9B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 20,
+      "row": "B",
+      "seatnumber": "10B",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 21,
+      "row": "C",
+      "seatnumber": "1C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 22,
+      "row": "C",
+      "seatnumber": "2C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 23,
+      "row": "C",
+      "seatnumber": "3C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 24,
+      "row": "C",
+      "seatnumber": "4C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 25,
+      "row": "C",
+      "seatnumber": "5C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 26,
+      "row": "C",
+      "seatnumber": "6C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 27,
+      "row": "C",
+      "seatnumber": "7C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 28,
+      "row": "C",
+      "seatnumber": "8C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 29,
+      "row": "C",
+      "seatnumber": "9C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    },
+    {
+      "id": 30,
+      "row": "C",
+      "seatnumber": "10C",
+      "flightId": "IAF1577",
+      "occupied": false,
+      "category": "normal"
+    }
+  ]
+}

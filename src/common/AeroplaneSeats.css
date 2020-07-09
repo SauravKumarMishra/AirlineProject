@@ -1,0 +1,29 @@
+.container.seats {
+  width: 100%;
+  height: auto;
+  background: #b3e0ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+}
+.box {
+  width: 20%;
+  height: 85px;
+  background: yellow;
+  text-align: center;
+  margin: 20px;
+  box-sizing: border-box;
+  font-size: 50px;
+}
+
+@media screen and (max-width: 1200px) {
+  .box {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .box {
+    width: 90%;
+  }
+}
